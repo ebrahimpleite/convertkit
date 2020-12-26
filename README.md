@@ -14,13 +14,8 @@ Class responsible for communicating with ConvertKit
 
 ## Installation
 
-Class ConvertKit is available via Composer:
+Composer:
 
-```bash
-"ebrahimpleite/convertkit": "1.0.*"
-```
-
-or run
 
 ```bash
 composer require ebrahimpleite/convertkit
