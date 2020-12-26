@@ -1,0 +1,27 @@
+{
+  "name": "ebrahimpleite/convertkit",
+  "description": "Class responsible for communicating with ConvertKit",
+  "keywords": [
+    "ConvertKit",
+    "convertkit php",
+    "convertkit sdk php",
+    "convertkit class php"
+  ],
+  "homepage": "https://github.com/ebrahimpleite",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Ebrahim P. Leite",
+      "email": "brahim.sk9@gmail.com",
+      "role": "Developer"
+    }
+  ],
+  "require": {
+    "php": "^7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "EbrahimPLeite\\ConvertKit\\": "src"
+    }
+  }
+}
