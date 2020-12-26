@@ -5,8 +5,6 @@
 [![PHP from Packagist](https://img.shields.io/packagist/php-v/ebrahimpleite/convertkit.svg?style=flat-square)](https://packagist.org/packages/ebrahimpleite/convertkit)
 [![Latest Version](https://img.shields.io/github/release/ebrahimpleite/convertkit.svg?style=flat-square)](https://github.com/ebrahimpleite/convertkit/releases)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
-[![Build](https://img.shields.io/scrutinizer/build/g/ebrahimpleite/convertkit.svg?style=flat-square)](https://scrutinizer-ci.com/g/ebrahimpleite/convertkit)
-[![Quality Score](https://img.shields.io/scrutinizer/g/ebrahimpleite/convertkit.svg?style=flat-square)](https://scrutinizer-ci.com/g/ebrahimpleite/convertkit)
 [![Total Downloads](https://img.shields.io/packagist/dt/ebrahimpleite/convertkit.svg?style=flat-square)](https://packagist.org/packages/ebrahimpleite/convertkit)
 
 
